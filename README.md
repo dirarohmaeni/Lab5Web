@@ -27,7 +27,6 @@ Lalu buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%201.png)
 
 
-
 ### Memunculkan alert & meminta input prompt.
 ```html
 <!DOCTYPE html>
@@ -50,6 +49,9 @@ Lalu buka Browser untuk melihat hasilnya
 </body>
 </html>
 ```
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%202.png)
 
 
 ### Mengganti document.write dengan DOM (innerHTML) agar aman dan merubah alert lewat body onload.
@@ -79,6 +81,9 @@ Lalu buka Browser untuk melihat hasilnya
   </body>
 </html>
 ```
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%203.png)
 
 
 ### Demonstrasi switch-case dan prompt. Kemudian tambahkan Form cek genap/ganjil dan Validasi dasar.
@@ -162,6 +167,9 @@ Lalu buka Browser untuk melihat hasilnya
 </html>
 ```
 
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%204.png)
 
 
 ### Membuat kolom merubah warna halaman.
@@ -274,6 +282,10 @@ Lalu buka Browser untuk melihat hasilnya
   </body>
 </html>
 ```
+
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%205.png)
 
 
 ### Checkbox harga dan total otomatis dengan validasi nilai sekaligus membuat kolom Daftar Menu.
@@ -426,4 +438,7 @@ Lalu buka Browser untuk melihat hasilnya
   </body>
 </html>
 ```
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%206.png)
 
