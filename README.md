@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d059c62a-6588-4415-92b3-f5aecfb79ef6" />### Nama: Dira Rohmaeni
+### Nama: Dira Rohmaeni
 ### NIM: 312410465
 ### Kelas: TI.24.A5
 
@@ -22,6 +22,10 @@
   </body>
 </html>
 ```
+
+Lalu buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/Lab5Web/blob/04f90fdcd762df0c8824d8bb272698e8eaa128fb/image%20javascript/image%201.png)
+
 
 
 ### Memunculkan alert & meminta input prompt.
